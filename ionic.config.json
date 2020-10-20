@@ -1,0 +1,7 @@
+{
+  "name": "belajar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
